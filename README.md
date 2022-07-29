@@ -389,4 +389,6 @@ Pages 501-528
 - [ ] 13 建立表格：表格与更多列表
 - [ ] 14 实现交互：HTML 表单
 ## Cuatro. Latex (@Papeeria||@Overleaf||@Authorea||@Kile LaTex Editor.)
-[LaTeX文档](https://liam.page/2014/09/08/latex-introduction/)
+* [LaTeX文档](https://liam.page/2014/09/08/latex-introduction/)
+* [intro to latex on colab](https://colab.research.google.com/github/bebi103a/bebi103a.github.io/blob/master/lessons/00/intro_to_latex.ipynb)
+* [latex on colab mainly some formulas and alphabets](https://colab.research.google.com/github/johnpharmd/DS-Sprint-03-Creating-Professional-Portfolios/blob/master/LaTeX.ipynb#scrollTo=uYupez6IuMXw)
