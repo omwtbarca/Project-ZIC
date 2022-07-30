@@ -22,7 +22,8 @@
 ![image](https://user-images.githubusercontent.com/87826552/180211825-2be64d4a-048e-4496-82d0-ed9b8907ba38.png)
 
 - [ ] 第1章 Python科学计算环境的安装与简介 1
-> 1.1 Python简介 1
+<summary> El content </summary>
+<details>  1.1 Python简介 1
 1.1.1 Python 2还是Python 3 1
 1.1.2 开发环境 2
 1.1.3 集成开发环境(IDE) 5
@@ -39,8 +40,12 @@
 1.3.5 界面设计 30
 1.3.6 图像处理和计算机视觉 31
 1.3.7 提高运算速度 31
+  
+</details>
+
 - [ ] 第2章 NumPy-快速处理数据 33
-> 2.1 ndarray对象 33
+<summary> El content </summary>
+<details> 2.1 ndarray对象 33
 2.1.1 创建 34
 2.1.2 元素类型 35
 2.1.3 自动生成数组 37
@@ -74,8 +79,12 @@
 2.5.1 动态数组 110
 2.5.2 和其他对象共享内存 112
 2.5.3 与结构数组共享内存 115
+  
+</details> 
+
 - [ ] 第3章 SciPy-数值计算库 117
-> 3.1 常数和特殊函数 117
+<summary> El content </summary>
+<details>3.1 常数和特殊函数 117
 3.2 拟合与优化-optimize 119
 3.2.1 非线性方程组求解 120
 3.2.2 最小二乘拟合 121
@@ -115,8 +124,12 @@
 3.9.2 凸包 199
 3.9.3 沃罗诺伊图 201
 3.9.4 德劳内三角化 204
+   
+</details> 
+
 - [ ] 第4章 matplotlib-绘制精美的图表 207
-> 4.1 快速绘图 207
+<summary> El content </summary>
+<details> 4.1 快速绘图 207
 4.1.1 使用pyplot模块绘图 207
 4.1.2 面向对象方式绘图 210
 4.1.3 配置属性 211
@@ -153,8 +166,12 @@
 4.6.2 响应鼠标与键盘事件 277
 4.6.3 动画 285
 4.6.4 添加GUI面板 288
+  
+</details>
+
 - [ ] 第5章 Pandas-方便的数据分析库 291
-> 5.1 Pandas中的数据对象 291
+<summary> El content </summary>
+<details> 5.1 Pandas中的数据对象 291
 5.1.1 Series对象 291
 5.1.2 DataFrame对象 293
 5.1.3 Index对象 297
@@ -185,8 +202,12 @@
 5.7 数据处理和可视化实例 347
 5.7.1 分析Pandas项目的提交历史 347
 5.7.2 分析空气质量数据 354
+  
+</details> 
+
 - [ ] 第6章 SymPy-符号运算好帮手 359
-> 6.1 从例子开始 359
+<summary> El content </summary>
+<details>6.1 从例子开始 359
 6.1.1 封面上的经典公式 359
 6.1.2 球体体积 361
 6.1.3 数值微分 362
@@ -209,8 +230,12 @@
 6.5.1 推导系统的微分方程 386
 6.5.2 将符号表达式转换为程序 388
 6.5.3 动画演示 389
+   
+</details>
+
 - [ ] 第7章 Traits & TraitsUI-轻松制作图形界面 393
-> 7.1 Traits类型入门 393
+<summary> El content </summary>
+<details> 7.1 Traits类型入门 393
 7.1.1 什么是Traits属性 393
 7.1.2 Trait属性的功能 396
 7.1.3 Trait类型对象 399
@@ -233,8 +258,12 @@
 7.5.2 对象编辑器 436
 7.5.3 自定义编辑器 440
 7.6 函数曲线绘制工具 444
+  
+</details> 
+
 - [ ] 第8章 TVTK与Mayavi-数据的三维可视化 451
-> 8.1 VTK的流水线(Pipeline) 452
+<summary> El content </summary>
+<details> 8.1 VTK的流水线(Pipeline) 452
 8.1.1 显示圆锥 452
 8.1.2 用ivtk观察流水线 455
 8.2 数据集 461
@@ -264,8 +293,12 @@
 8.6 将TVTK和Mayavi嵌入界面 515
 8.6.1 TVTK场景的嵌入 516
 8.6.2 Mayavi场景的嵌入 518
+  
+</details>
+
 - [ ] 第9章 OpenCV-图像处理和计算机视觉 523
-> 9.1 图像的输入输出 523
+<summary> El content </summary>
+<details>  9.1 图像的输入输出 523
 9.1.1 读入并显示图像 523
 9.1.2 图像类型 524
 9.1.3 图像输出 525
@@ -294,8 +327,12 @@
 9.6.1 分析cv2的源程序 570
 9.6.2 Mat对象 572
 9.3.3 在cv和cv2之间转换图像对象 574
+  
+</details>
+
 - [ ] 第10章 Cython-编译Python程序 575
-> 10.1 配置编译器 575
+<summary> El content </summary>
+<details> 10.1 配置编译器 575
 10.2 Cython入门 577
 10.2.1 计算矢量集的距离矩阵 577
 10.2.2 将Cython程序编译成扩展模块 579
@@ -318,8 +355,12 @@
 10.6.1 创建ufunc函数 613
 10.6.2 快速调用DLL中的函数 617
 10.6.3 调用BLAS函数 620
+  
+</details>
+
 - [ ] 第11章 实例 627
-> 11.1 使用泊松混合合成图像 627
+<summary> El content </summary>
+<details> 11.1 使用泊松混合合成图像 627
 11.1.1 泊松混合算法 627
 11.1.2 编写代码 629
 11.1.3 演示程序 632
@@ -347,6 +388,9 @@
 11.6.2 迭代函数系统 699
 11.6.3 L-System分形 706
 11.6.4 分形山脉 710
+  
+</details> 
+
 ## Practical Chemoinformatics
 
 (@[Springer](https://link.springer.com/book/10.1007/978-81-322-1780-0#toc)) [↩️](#poject-zic)
