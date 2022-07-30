@@ -9,9 +9,9 @@
 
 | No. |Name   |Date|Rank|Progress|
 |---|---|---|---|---|
-| Uno. |[Python科学计算](#python科学计算)| 2021.7.25-|⭐⭐⭐⭐⭐|10%|
-| Dos. |[Electrocatalysis](#electrocatalysis)|2022.7.30-|⭐⭐⭐⭐⭐|10%|
-
+| Uno. |[Python科学计算](#python科学计算)| 2021.7.25-|⭐⭐⭐|10%|
+| Dos. |[Practical Chemoinformatics](#practical-chemoinformatics)|2022-|⭐⭐⭐|10%|
+| Tres. |[Head First HTML与CSS ](#head-first-hTML与CSS )|2022-|⭐⭐⭐|10%|
 
 
 
@@ -347,7 +347,7 @@
 11.6.2 迭代函数系统 699
 11.6.3 L-System分形 706
 11.6.4 分形山脉 710
-## Dos.Practical Chemoinformatics
+## Practical Chemoinformatics
 
 (@[Springer](https://link.springer.com/book/10.1007/978-81-322-1780-0#toc)) [↩️](#poject-zic)
 
