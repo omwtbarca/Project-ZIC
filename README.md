@@ -11,7 +11,7 @@
 |---|---|---|---|---|
 | Uno. |[Python科学计算](#python科学计算)| 2021.7.25-|⭐⭐⭐|10%|
 | Dos. |[Practical Chemoinformatics](#practical-chemoinformatics)|2022-|⭐⭐⭐|10%|
-| Tres. |[Head First HTML与CSS ](#head-first-html-与-css)|2022-|⭐⭐⭐|10%|
+| Tres. |[Head First HTML与CSS ](#head-first-hTML-aND-cSS)|2022-|⭐⭐⭐|10%|
 
 
 
@@ -391,7 +391,7 @@ PDF
 - [ ] Cloud Computing Infrastructure Development for Chemoinformatics
 Muthukumarasamy Karthikeyan, Renu Vyas
 Pages 501-528
-## Head First HTML与CSS 
+## Head First HTML AND CSS 
 
 (version 2th @China Electric Power Press / Elisabeth Robson / Eric Freeman) [↩️](#poject-zic)
 
