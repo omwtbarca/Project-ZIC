@@ -1,8 +1,24 @@
 # Project ZIC
-> On November 16th, 2021, Project ZIC officially opened!
+
+〽️ On November 16th, 2021, Project ZIC officially opened!
 
 @omwtbarca 
-## Uno.Python科学计算(@Tsinghua university press)
+
+# Book-List
+
+
+| No. |Name   |Date|Rank|Progress|
+|---|---|---|---|---|
+| Uno. |[Python科学计算](#python科学计算)| 2021.7.25-|⭐⭐⭐⭐⭐|10%|
+| Dos. |[Electrocatalysis](#electrocatalysis)|2022.7.30-|⭐⭐⭐⭐⭐|10%|
+
+
+
+
+## Python科学计算
+
+(@Tsinghua university press) [↩️](#poject-zic)
+
 ![image](https://user-images.githubusercontent.com/87826552/180211825-2be64d4a-048e-4496-82d0-ed9b8907ba38.png)
 
 - [ ] 第1章 Python科学计算环境的安装与简介 1
@@ -331,7 +347,10 @@
 11.6.2 迭代函数系统 699
 11.6.3 L-System分形 706
 11.6.4 分形山脉 710
-## Dos.Practical Chemoinformatics(@[Springer](https://link.springer.com/book/10.1007/978-81-322-1780-0#toc))
+## Dos.Practical Chemoinformatics
+
+(@[Springer](https://link.springer.com/book/10.1007/978-81-322-1780-0#toc)) [↩️](#poject-zic)
+
 ![image](https://user-images.githubusercontent.com/87826552/180212504-10db5880-499b-4b64-b619-aef75a20c1df.png)
 - [ ] Open-Source Tools, Techniques, and Data in Chemoinformatics
 Muthukumarasamy Karthikeyan, Renu Vyas
@@ -372,7 +391,10 @@ PDF
 - [ ] Cloud Computing Infrastructure Development for Chemoinformatics
 Muthukumarasamy Karthikeyan, Renu Vyas
 Pages 501-528
-## Tres. Head First HTML与CSS (version 2th @China Electric Power Press / Elisabeth Robson / Eric Freeman)
+## Head First HTML与CSS 
+
+(version 2th @China Electric Power Press / Elisabeth Robson / Eric Freeman) [↩️](#poject-zic)
+
 ![image](https://user-images.githubusercontent.com/87826552/180588419-26e06b94-80da-4c0f-af32-cc5c1f3d56e4.png)
 - [ ] 1 Web语言：认识HTML
 - [ ] 2 认识HTML中的“HT”：深入了解超文本
@@ -388,7 +410,10 @@ Pages 501-528
 - [ ] 12 现代HTML：HTML5标记
 - [ ] 13 建立表格：表格与更多列表
 - [ ] 14 实现交互：HTML 表单
-## Cuatro. Latex (@Papeeria||@Overleaf||@Authorea||@Kile LaTex Editor.)
+## Latex 
+
+(@Papeeria||@Overleaf||@Authorea||@Kile LaTex Editor.) [↩️](#poject-zic)
+
 * [LaTeX文档](https://liam.page/2014/09/08/latex-introduction/)
 * [intro to latex on colab](https://colab.research.google.com/github/bebi103a/bebi103a.github.io/blob/master/lessons/00/intro_to_latex.ipynb)
 * [latex on colab mainly some formulas and alphabets](https://colab.research.google.com/github/johnpharmd/DS-Sprint-03-Creating-Professional-Portfolios/blob/master/LaTeX.ipynb#scrollTo=uYupez6IuMXw)
