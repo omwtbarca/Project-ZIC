@@ -11,7 +11,7 @@
 |---|---|---|---|---|
 | Uno. |[Python科学计算](#python科学计算)| 2021.7.25-|⭐⭐⭐|10%|
 | Dos. |[Practical Chemoinformatics](#practical-chemoinformatics)|2022-|⭐⭐⭐|10%|
-| Tres. |[Head First HTML与CSS ](#head-first-html与css )|2022-|⭐⭐⭐|10%|
+| Tres. |[Head First HTML与CSS ](#head-first-html-与-css)|2022-|⭐⭐⭐|10%|
 
 
 
