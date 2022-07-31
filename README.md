@@ -21,7 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/87826552/180211825-2be64d4a-048e-4496-82d0-ed9b8907ba38.png)
 
-- [ ] 第1章 Python科学计算环境的安装与简介 1
+- [x ] 第1章 Python科学计算环境的安装与简介 1
 <summary> El content </summary>
 <details>  1.1 Python简介 1
 1.1.1 Python 2还是Python 3 1
@@ -43,7 +43,7 @@
   
 </details>
 
-- [ ] 第2章 NumPy-快速处理数据 33
+- [x ] 第2章 NumPy-快速处理数据 33
 <summary> El content </summary>
 <details> 2.1 ndarray对象 33
 2.1.1 创建 34
@@ -127,7 +127,7 @@
    
 </details> 
 
-- [ ] 第4章 matplotlib-绘制精美的图表 207
+- [x ] 第4章 matplotlib-绘制精美的图表 207
 <summary> El content </summary>
 <details> 4.1 快速绘图 207
 4.1.1 使用pyplot模块绘图 207
